@@ -1,0 +1,16 @@
+Pregunta 1:
+Respuesta: B
+
+Pregunta 2:
+Respuesta: C
+
+Pregunta 3:
+Respuesta: B El uso responsable de la información en internet es clave para participar de forma segura y ética en la sociedad digital.
+La ciudadanía digital implica respetar a los demás y verificar la información antes de compartirla.
+Esto ayuda a evitar la difusión de noticias falsas o engañosas.
+También permite que las personas tomen decisiones informadas.
+El trabajo técnico con herramientas como Git permite organizar mejor los proyectos.
+Git ayuda a guardar versiones del trabajo y colaborar con otros.
+Esto mejora la eficiencia y el orden en el desarrollo de software.
+La combinación de responsabilidad digital y herramientas técnicas es fundamental en la actualidad.
+Así se construyen entornos digitales más seguros y organizados.
